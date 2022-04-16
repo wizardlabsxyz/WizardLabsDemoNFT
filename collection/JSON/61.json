@@ -1,0 +1,55 @@
+{
+  "image": "61.png",
+  "name": "Space Sneks Demo #61",
+  "description": "My first demo using a small collection of Space Sneks components",
+  "external_url": "https://sneks.diamondhandshotel.com",
+  "seller_fee_basis_points": 100,
+  "collection": {
+    "name": "Space Sneks Demo",
+    "family": "Diamond Hands Hotel"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "61.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "share": 100,
+        "address": "dmndhh8fdQYWxcqWfxqgRLQ2MHizRCM4j49tZjPp8LU"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Camo Hot Pink"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Astronaut Suit"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Halo"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Gold Chain"
+    }
+  ]
+}

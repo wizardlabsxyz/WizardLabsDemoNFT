@@ -1,0 +1,55 @@
+{
+  "image": "90.png",
+  "name": "Space Sneks Demo #90",
+  "description": "My first demo using a small collection of Space Sneks components",
+  "external_url": "https://sneks.diamondhandshotel.com",
+  "seller_fee_basis_points": 100,
+  "collection": {
+    "name": "Space Sneks Demo",
+    "family": "Diamond Hands Hotel"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "90.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "share": 100,
+        "address": "dmndhh8fdQYWxcqWfxqgRLQ2MHizRCM4j49tZjPp8LU"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Capri"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Abstract"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Stupid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Excited"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "My Name Is"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Fedora"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Gold Chain"
+    }
+  ]
+}

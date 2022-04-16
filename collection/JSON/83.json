@@ -1,0 +1,55 @@
+{
+  "image": "83.png",
+  "name": "Space Sneks Demo #83",
+  "description": "My first demo using a small collection of Space Sneks components",
+  "external_url": "https://sneks.diamondhandshotel.com",
+  "seller_fee_basis_points": 100,
+  "collection": {
+    "name": "Space Sneks Demo",
+    "family": "Diamond Hands Hotel"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "83.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "share": 100,
+        "address": "dmndhh8fdQYWxcqWfxqgRLQ2MHizRCM4j49tZjPp8LU"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Magic Mint"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "More Razzle"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Smiling"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "My Name Is"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Solana Flag"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "image": "28.png",
+  "name": "Space Sneks Demo #28",
+  "description": "My first demo using a small collection of Space Sneks components",
+  "external_url": "https://sneks.diamondhandshotel.com",
+  "seller_fee_basis_points": 100,
+  "collection": {
+    "name": "Space Sneks Demo",
+    "family": "Diamond Hands Hotel"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "28.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "share": 100,
+        "address": "dmndhh8fdQYWxcqWfxqgRLQ2MHizRCM4j49tZjPp8LU"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Baby Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Chrome Turquoise"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Stupid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Smiling"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Toga"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Nether Raygun"
+    }
+  ]
+}
